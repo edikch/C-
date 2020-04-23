@@ -1,0 +1,6 @@
+C:\Users\ladmin\source\repos\ConsoleApp2\Task5\bin\Debug\Task5.exe.config
+C:\Users\ladmin\source\repos\ConsoleApp2\Task5\bin\Debug\Task5.exe
+C:\Users\ladmin\source\repos\ConsoleApp2\Task5\bin\Debug\Task5.pdb
+C:\Users\ladmin\source\repos\ConsoleApp2\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\ladmin\source\repos\ConsoleApp2\Task5\obj\Debug\Task5.exe
+C:\Users\ladmin\source\repos\ConsoleApp2\Task5\obj\Debug\Task5.pdb

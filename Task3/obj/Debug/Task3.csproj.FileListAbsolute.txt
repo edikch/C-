@@ -1,0 +1,7 @@
+C:\Users\ladmin\source\repos\ConsoleApp2\Task3\bin\Debug\Task3.exe.config
+C:\Users\ladmin\source\repos\ConsoleApp2\Task3\bin\Debug\Task3.exe
+C:\Users\ladmin\source\repos\ConsoleApp2\Task3\bin\Debug\Task3.pdb
+C:\Users\ladmin\source\repos\ConsoleApp2\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\ladmin\source\repos\ConsoleApp2\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\ladmin\source\repos\ConsoleApp2\Task3\obj\Debug\Task3.exe
+C:\Users\ladmin\source\repos\ConsoleApp2\Task3\obj\Debug\Task3.pdb
